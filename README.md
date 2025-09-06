@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Restora Wallet Banner" width="100%">
+  <img src="assets/IMG_20250906_134054.jpg" alt="Restora Wallet Banner" width="100%">
 </p>
 
 # Restora Wallet 🛡️
