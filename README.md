@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="assets/IMG_20250906_134054.jpg" alt="Restora Wallet Banner" width="100%">
-</p>
+![Restora Wallet Banner](assets/IMG_20250906_134054.jpg)
 
-# Restora Wallet 🛡️
+# 🛡️ Restora Wallet
 
-> **Restora Wallet is a next-generation Web3 wallet built to restore trust in decentralized security.**  
-> With multi-layer recovery, unified gas payments, and future-proof encryption — we’re redefining what a crypto wallet can be.
+**Restora Wallet** is a next-generation Web3 wallet built to **restore trust in decentralized security**.  
+With multi-layer recovery, unified gas payments, and future-proof encryption — we’re redefining what a crypto wallet can be.
 
 ---
 
@@ -15,30 +13,32 @@ We believe users deserve **full control** of their digital assets without compro
 
 ---
 
-## 🔑 Key Features
-- 🛡️ **Multi-Layer Recovery**: Proprietary Trust Key + non-exportable seed for ultimate protection.  
-- 🔐 **Military-Grade Security**: AES-256, ChaCha20, and advanced cryptography.  
-- ⚡ **Unified Gas Token (FZ)**: Pay gas fees across all supported chains with a single token.  
-- 🌐 **Cross-Chain Support**: Ethereum, BNB, Polygon, Arbitrum, and more.  
-- 📱 **Mobile-First UX**: Clean, intuitive design accessible for everyone.  
-- 🔄 **Smart Relayer System**: Handles fees in the background for seamless transactions.  
+## ✨ Features
+- 🔒 **Multi-layer Recovery** – Seed + Trust Key = safer asset protection.  
+- 🪙 **Unified Gas Token (FZ)** – Pay gas fees with one token across chains.  
+- 📱 **UX-First Design** – Intuitive and mobile-friendly.  
+- 🛡️ **Advanced Security** – Resistant to phishing & unauthorized transfers.  
 
 ---
 
-## 📊 Market Problem
-Billions have been lost due to:
-- ❌ Vulnerable seed phrases (BIP-39 risks, phishing attacks).  
-- ❌ Single-layer recovery methods (no backup protection).  
-- ❌ Fragmented gas fees (multiple tokens for different chains).  
-- ❌ Complex UX that scares away newcomers.  
+## 🌐 Official Links
+Stay safe — these are our **only official channels**:  
 
-👉 **Restora Wallet solves them all.**
+- 🖥️ [Website](https://www.restorawallet.com)  
+- 🐦 [Twitter](https://x.com/Restorawallet)  
+- 💬 [Telegram](https://t.me/restorawallet)  
+- 🎮 [Discord](https://discord.gg/ymKVgf65Q9)  
 
 ---
 
-## 🪙 Token Utility (FZ)
-The **Feez (FZ)** token powers our ecosystem:  
-- Gas fee abstraction across chains.  
+## 🤝 Get Involved
+- ⭐ Star this repo to support our mission.  
+- 🧑‍💻 Contribute to open-source development (coming soon).  
+- 📢 Share Restora Wallet with your community.  
+
+---
+
+### 🛡️ Restora Wallet – Restore your digital assets safely and smartly.- Gas fee abstraction across chains.  
 - Governance rights for the community.  
 - Incentives for staking & ecosystem growth.  
 - Treasury revenue sharing for sustainability.  
